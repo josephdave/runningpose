@@ -5,3 +5,4 @@ test_results/*
 yolov8m-pose.pt
 yolov8x-pose-p6.pt
 yolov8n.pt
+.vercel
